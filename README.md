@@ -14,7 +14,7 @@ This Python script generates a personalized wordlist based on user input, such a
 
 The script asks the user for:
 1. **Personal Information**: This is a comma-separated list (e.g., `John,Doe,1990`), which the script uses to generate wordlist entries.
-2. **Special Characters**: The user can either provide their own special characters or use the default set (`!@#$%^&*()_+-=~\`[]{}|;:',.<>?/`).
+2. **Special Characters**: The user can either provide their own special characters or use the default set (`!@#$%^&*()_+-=~\[]{}|;:',.<>?/`).
 
 It then generates:
 - All possible combinations of the input strings.
