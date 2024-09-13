@@ -70,7 +70,3 @@ johnDoe@#
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-This README explains the script's functionality, installation, and how to run it. Let me know if you want to make any changes or add more details!
